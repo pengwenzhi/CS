@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.4">
+    <CLASSES>
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/javax.mail.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/commons-email-1.5.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/jspSmartUplodeCN.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/commons-io-2.6.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://E:/CLAFS/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
